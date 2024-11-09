@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "891783191861",
+    "project_id": "fir-projact-note-app",
+    "storage_bucket": "fir-projact-note-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891783191861:android:26c9a12ffbb35eb596807c",
+        "android_client_info": {
+          "package_name": "com.example.fire_bace_projact"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-rUNWoQJ2BGWRnjJ8zVHraBE7pfcjXsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
